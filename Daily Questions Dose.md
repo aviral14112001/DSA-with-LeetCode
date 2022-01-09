@@ -1,4 +1,4 @@
-Searching 
+# Searching 
 
 # Day 1
 Q1:     https://leetcode.com/problems/sqrtx/      
