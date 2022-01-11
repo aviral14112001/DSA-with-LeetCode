@@ -13,9 +13,14 @@ Q3:     https://leetcode.com/problems/search-in-rotated-sorted-array/
 # Day 3
 Q1:     https://leetcode.com/problems/arranging-coins/                                                                                                                             
 Q2:     https://leetcode.com/problems/find-smallest-letter-greater-than-target/                                                                                                     
-Q3:     https://leetcode.com/problems/search-in-rotated-sorted-array-ii/                                                                                                            
+Q3:     https://leetcode.com/problems/search-in-rotated-sorted-array-ii/   
+
 # Day 4
-Q1:    https://leetcode.com/problems/length-of-last-word/description/                                                                                                                Q2:    https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/                                                                                                Q3:    https://leetcode.com/problems/intersection-of-two-arrays/
+Q1:    https://leetcode.com/problems/length-of-last-word/description/                                                                                                               
+Q2:    https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/          
+Q3:    https://leetcode.com/problems/intersection-of-two-arrays/
 
 # Day 5
-Q1:    https://leetcode.com/problems/search-insert-position/                                                                                                                        Q2:    https://leetcode.com/problems/peak-index-in-a-mountain-array/                                                                                                                Q3:    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+Q1:    https://leetcode.com/problems/search-insert-position/   
+Q2:    https://leetcode.com/problems/peak-index-in-a-mountain-array/  
+Q3:    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
