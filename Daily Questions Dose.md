@@ -35,5 +35,3 @@ Q1:   https://leetcode.com/problems/intersection-of-two-arrays-ii/
 Q2:   https://leetcode.com/problems/fair-candy-swap/                                                                                                                             
 Q3:   https://leetcode.com/problems/find-right-interval/
 
- - [ ] hellow
-              - [ ] hellowjwsda
