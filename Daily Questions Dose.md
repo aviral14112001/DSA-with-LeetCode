@@ -1,7 +1,7 @@
 # Searching 
 
 # Day 1
- [x] Q1:     https://leetcode.com/problems/sqrtx/      
+Q1:     https://leetcode.com/problems/sqrtx/      
 Q2:     https://leetcode.com/problems/guess-number-higher-or-lower/description/    
 Q3:     https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 
@@ -24,3 +24,6 @@ Q3:    https://leetcode.com/problems/intersection-of-two-arrays/
 Q1:    https://leetcode.com/problems/search-insert-position/   
 Q2:    https://leetcode.com/problems/peak-index-in-a-mountain-array/  
 Q3:    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+
+#Day 6
+ [ ] hello
