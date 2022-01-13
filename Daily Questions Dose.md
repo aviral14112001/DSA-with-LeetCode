@@ -26,11 +26,11 @@ Q2:    https://leetcode.com/problems/peak-index-in-a-mountain-array/
 Q3:    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 
 #Day 6
-Q1:   https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/
-Q2:   https://leetcode.com/problems/intersection-of-two-arrays/description/
+Q1:   https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/                                                                                       
+Q2:   https://leetcode.com/problems/intersection-of-two-arrays/description/                                                                                                       
 Q3:   https://leetcode.com/problems/find-peak-element/
 
 #Day 7
-Q1:   https://leetcode.com/problems/intersection-of-two-arrays-ii/
-Q2:   https://leetcode.com/problems/fair-candy-swap/
+Q1:   https://leetcode.com/problems/intersection-of-two-arrays-ii/                                                                                                               
+Q2:   https://leetcode.com/problems/fair-candy-swap/                                                                                                                             
 Q3:   https://leetcode.com/problems/find-right-interval/
