@@ -26,4 +26,4 @@ Q2:    https://leetcode.com/problems/peak-index-in-a-mountain-array/
 Q3:    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 
 #Day 6
- [ ] hello
+[ ] hello
