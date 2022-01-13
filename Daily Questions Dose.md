@@ -1,7 +1,7 @@
 # Searching 
 
 # Day 1
- [ ] Q1:     https://leetcode.com/problems/sqrtx/      
+ [x] Q1:     https://leetcode.com/problems/sqrtx/      
 Q2:     https://leetcode.com/problems/guess-number-higher-or-lower/description/    
 Q3:     https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 
