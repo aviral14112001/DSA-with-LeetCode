@@ -32,6 +32,11 @@
 
 # Day 7                                                                                                                                                                           
 - [ ] Q1:   https://leetcode.com/problems/intersection-of-two-arrays-ii/                                                                                                               
-- [ ] Q2:   https://leetcode.com/problems/fair-candy-swap/                                                                                                                             
+- [ ] Q2:   https://leetcode.com/problems/fair-candy-swap/<br/>
 - [ ] Q3:   https://leetcode.com/problems/find-right-interval/
+
+# Day 8                                                                                                                                                                           
+- [ ] Q1:   https://leetcode.com/problems/check-if-n-and-its-double-exist/<br/>                                                                                             
+- [ ] Q2:   https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/<br/>                                            
+- [ ] Q3:   https://leetcode.com/problems/reach-a-number/<br/>
 
