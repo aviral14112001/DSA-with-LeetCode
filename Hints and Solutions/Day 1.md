@@ -1,11 +1,11 @@
 # *Solution 1*
 
 ## Approach
-We want to find a square root of a number ***X*** 
-and return the *floor(ans)* means we want to return its integer part only 
-so we need to find a number *mid* such that     **mid\*mid == X**
-to find such a number **mid** we use binary search 
-if we are **X** is not a perfect square then we return number such that **floor(sqrt(X))** is equal; to that number 
+We want to find a square root of a number ***X***                                                                                                                                 
+and return the *floor(ans)* means we want to return its integer part only                                                                                                         
+so we need to find a number *mid* such that    **mid\*mid == X**                                                                                                                 
+to find such a number **mid** we use binary search                                                                                                                               
+if we are **X** is not a perfect square then we return number such that **floor(sqrt(X))** is equal; to that number                                                               
 ```
 int mySqrt(int x)
 {
