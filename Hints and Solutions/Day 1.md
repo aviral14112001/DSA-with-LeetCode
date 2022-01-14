@@ -42,8 +42,8 @@ int mySqrt(int x)
 
 ### Approach
 
-This is just a simple question of binary search here you have to use already defined function  ***int guess(int num)*** to check if the guessed number **m**  is greater or smaller than the picked number 
-***Only difference is that here you have to given function to check conditions of the binary search***
+This is just a simple question of binary search here you have to use already defined function  ***int guess(int num)*** to check if the guessed number **m**  is greater or smaller than the picked number                                                                                                                                                    
+***Only difference is that here you have already defined  function to check conditions of the binary search***
 ```
  int guessNumber(int n) {
       long long   int m,i=1,j=n;
