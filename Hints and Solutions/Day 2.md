@@ -95,7 +95,7 @@ Here we are using *Binary Search Divide & Conquer* techique OR *pivoted Binary S
 LeftIndex to Zero and Right to Last off the array                      
 Set mid = (low+high)/1 *&* if mid is target return midIndex                             
 between leftIndex and midIndex right-- *else* left++                                                    
-between midIndex and rightIndex left++ *else* right-- 
+between midIndex and rightIndex left++ *else* right--                  
 (comparing the index no. = target if not adjust the values) OR *return -1*
 
 **Complexity: O(log n)**                                                                                     
