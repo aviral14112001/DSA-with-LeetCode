@@ -40,7 +40,7 @@
 - [ ] Q2:   https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/<br/>                                            
 - [ ] Q3:   https://leetcode.com/problems/reach-a-number/<br/>
 
-##Sorting 
+## Sorting 
 ### Day 1
 - [ ] Q1:-  https://leetcode.com/problems/merge-sorted-array/submissions/<br/>
 - [ ] Q2:-  https://leetcode.com/problems/majority-element/<br/>
