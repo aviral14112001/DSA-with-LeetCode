@@ -45,3 +45,8 @@
 - [ ] Q1:-  https://leetcode.com/problems/merge-sorted-array/submissions/<br/>
 - [ ] Q2:-  https://leetcode.com/problems/majority-element/<br/>
 - [ ] Q3:-  https://leetcode.com/problems/3sum/<br/>
+
+### Day 2
+- [ ] Q1:-  https://leetcode.com/problems/contains-duplicate/<br/>
+- [ ] Q2:-  https://leetcode.com/problems/missing-number/<br/>
+- [ ] Q3:-  https://leetcode.com/problems/3sum-closest/<br/>
