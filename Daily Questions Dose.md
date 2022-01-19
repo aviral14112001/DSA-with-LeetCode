@@ -50,3 +50,8 @@
 - [ ] Q1:-  https://leetcode.com/problems/contains-duplicate/<br/>
 - [ ] Q2:-  https://leetcode.com/problems/missing-number/<br/>
 - [ ] Q3:-  https://leetcode.com/problems/3sum-closest/<br/>
+
+### Day 3
+- [ ] Q1:-  https://leetcode.com/problems/intersection-of-two-arrays/<br/>
+- [ ] Q2:-  https://leetcode.com/problems/intersection-of-two-arrays-ii/<br/>
+- [ ] Q3:-  https://leetcode.com/problems/third-maximum-number/<br/>
