@@ -55,3 +55,8 @@
 - [ ] Q1:-  https://leetcode.com/problems/intersection-of-two-arrays/<br/>
 - [ ] Q2:-  https://leetcode.com/problems/intersection-of-two-arrays-ii/<br/>
 - [ ] Q3:-  https://leetcode.com/problems/third-maximum-number/<br/>
+
+### Day 4
+- [ ] Q1:-  https://leetcode.com/problems/array-partition-i/<br/>
+- [ ] Q2:-  https://leetcode.com/problems/assign-cookies/<br/>
+- [ ] Q3:-  https://leetcode.com/problems/4sum/<br/>
