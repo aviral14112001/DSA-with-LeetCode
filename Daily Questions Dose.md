@@ -60,3 +60,8 @@
 - [ ] Q1:-  https://leetcode.com/problems/array-partition-i/<br/>
 - [ ] Q2:-  https://leetcode.com/problems/assign-cookies/<br/>
 - [ ] Q3:-  https://leetcode.com/problems/4sum/<br/>
+
+### Day 5
+- [ ] Q1:-  https://leetcode.com/problems/maximum-product-of-three-numbers/<br>
+- [ ] Q2:-  https://leetcode.com/problems/sort-array-by-parity/<br>
+- [ ] Q3:-  https://leetcode.com/problems/group-anagrams/<br>
