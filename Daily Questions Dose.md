@@ -65,3 +65,8 @@
 - [ ] Q1:-  https://leetcode.com/problems/maximum-product-of-three-numbers/<br>
 - [ ] Q2:-  https://leetcode.com/problems/sort-array-by-parity/<br>
 - [ ] Q3:-  https://leetcode.com/problems/group-anagrams/<br>
+
+### Day 6
+- [ ] Q1:-  https://leetcode.com/problems/sort-array-by-parity-ii/<br/>
+- [ ] Q2:-  https://leetcode.com/problems/largest-perimeter-triangle/<br/>
+- [ ] Q3:-  https://leetcode.com/problems/squares-of-a-sorted-array/<br/>
