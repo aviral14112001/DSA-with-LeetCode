@@ -70,3 +70,8 @@
 - [ ] Q1:-  https://leetcode.com/problems/sort-array-by-parity-ii/<br/>
 - [ ] Q2:-  https://leetcode.com/problems/largest-perimeter-triangle/<br/>
 - [ ] Q3:-  https://leetcode.com/problems/squares-of-a-sorted-array/<br/>
+
+### Day 7
+- [ ] Q1:-  https://leetcode.com/problems/matrix-cells-in-distance-order/<br/>
+- [ ] Q2:-  https://leetcode.com/problems/height-checker/<br/>
+- [ ] Q3:-  https://leetcode.com/problems/relative-sort-array/<br/>
