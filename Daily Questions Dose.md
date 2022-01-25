@@ -75,3 +75,8 @@
 - [ ] Q1:-  https://leetcode.com/problems/matrix-cells-in-distance-order/<br/>
 - [ ] Q2:-  https://leetcode.com/problems/height-checker/<br/>
 - [ ] Q3:-  https://leetcode.com/problems/relative-sort-array/<br/>
+
+### Day 8
+- [ ] Q1:-  https://leetcode.com/problems/minimum-absolute-difference/<br/>
+- [ ] Q2:-  https://leetcode.com/problems/rank-transform-of-an-array/<br/>
+- [ ] Q3:-  https://leetcode.com/problems/merge-intervals/<br/>
