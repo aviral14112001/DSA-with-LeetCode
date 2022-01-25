@@ -12,8 +12,6 @@ If you have any doubt ask in the group or you can also DM me "I am always up for
 - [x] Done
 
 <br>
-***
-Use LeetCode enhancer to hide questions difficulty level it may help you in solving "Hard Questions !!"<br/>
-[LeetCode Enhancer] (https://chrome.google.com/webstore/detail/leetcode-enhancer/gcmncppaaebldbkgkcbojghpmpjkdlmp?hl=en)
-***
+***Use LeetCode enhancer to hide questions difficulty level it may help you in solving "Hard Questions !!"<br/>
+[ LeetCode Enhancer ] (https://chrome.google.com/webstore/detail/leetcode-enhancer/gcmncppaaebldbkgkcbojghpmpjkdlmp?hl=en)***
 <br>
