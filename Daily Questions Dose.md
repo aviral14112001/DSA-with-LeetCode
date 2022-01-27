@@ -80,3 +80,9 @@
 - [ ] Q1:-  https://leetcode.com/problems/minimum-absolute-difference/<br/>
 - [ ] Q2:-  https://leetcode.com/problems/rank-transform-of-an-array/<br/>
 - [ ] Q3:-  https://leetcode.com/problems/merge-intervals/<br/>
+
+### Day 9
+- [ ] Q1:-  https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/<br/>
+- [ ] Q2:-  https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/<br/>
+- [ ] Q3:-  https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/<br/>
+- [ ] Q4:-  https://leetcode.com/problems/sort-colors/<br/>
