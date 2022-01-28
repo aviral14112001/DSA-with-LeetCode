@@ -91,3 +91,8 @@
 - [ ] Q1:-  https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/<br/>
 - [ ] Q2:-  https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/<br/>
 - [ ] Q3:-  https://leetcode.com/problems/first-missing-positive/<br/>
+
+## Strings
+- [ ] Q1:-  https://leetcode.com/problems/defanging-an-ip-address/<br/>
+- [ ] Q2:-  https://leetcode.com/problems/shuffle-string/<br/>
+- [ ] Q3:-  https://leetcode.com/problems/jump-game-vii/<br/>
