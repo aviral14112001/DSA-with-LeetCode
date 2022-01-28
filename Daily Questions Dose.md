@@ -86,3 +86,8 @@
 - [ ] Q2:-  https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/<br/>
 - [ ] Q3:-  https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/<br/>
 - [ ] Q4:-  https://leetcode.com/problems/sort-colors/<br/>
+
+### Day 10
+- [ ] Q1:-  https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/<br/>
+- [ ] Q2:-  https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/<br/>
+- [ ] Q3:-  https://leetcode.com/problems/first-missing-positive/<br/>
