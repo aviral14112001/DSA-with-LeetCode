@@ -93,6 +93,13 @@
 - [ ] Q3:-  https://leetcode.com/problems/first-missing-positive/<br/>
 
 ## Strings
+
+### Day 1
 - [ ] Q1:-  https://leetcode.com/problems/defanging-an-ip-address/<br/>
 - [ ] Q2:-  https://leetcode.com/problems/shuffle-string/<br/>
 - [ ] Q3:-  https://leetcode.com/problems/jump-game-vii/<br/>
+
+### Day 2
+- [ ] Q1:-  https://leetcode.com/problems/goal-parser-interpretation/<br/>
+- [ ] Q2:-  https://leetcode.com/problems/count-items-matching-a-rule/<br/>
+- [ ] Q3:-  https://leetcode.com/problems/split-two-strings-to-make-palindrome/<br/>
